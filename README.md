@@ -1,6 +1,6 @@
 # University Research Opportunity Portal
 
-GitHub Repository: https://github.com/YOUR_USERNAME/research-opportunity-portal
+GitHub Repository: https://github.com/Safwan-15/Research-opportunity-portal
 
 Course: Computer Networks | BS (AI 5A) | Fall-2026
 
